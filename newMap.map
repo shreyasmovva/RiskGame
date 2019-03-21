@@ -1,0 +1,17 @@
+Japan,322,104,Asia,Kamchatka,Mongolia
+image=world.bmp
+wrap=yes
+scroll=horizontal
+author=Your Name
+warn=yes
+
+[Continents]
+North America=5
+Mexico=2
+Africa=3
+Asia=7
+
+[Territories]
+Japan,322,104,North America,Kamchatka,Mongolia
+Ural,241,68,Asia,Siberia,China,Afghanistan,Ukraine
+Arab,241,68,Asia,Siberia,China,Afghanistan,Ukraine

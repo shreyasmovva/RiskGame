@@ -1,0 +1,16 @@
+[Map]
+image=world.bmp
+wrap=yes
+scroll=horizontal
+author=Your Name
+warn=yes
+
+[Continents]
+a=1
+b=2
+
+
+[Territories]
+x, 1, 2, a, y, z
+y, 1, 2, b, x
+z, 1, 2, b, x

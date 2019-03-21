@@ -1,0 +1,21 @@
+[Map]
+image=world.bmp
+wrap=yes
+scroll=horizontal
+author=Your Name
+warn=yes
+
+[Continents]
+Asia=9
+South America  = 10
+North America=4
+
+[Territories]
+USA, 1, 3, North America, canada, mexico
+canada,44,5,North America, USA
+mexico,6,7, North America, USA
+brazil, 5,33,South America, mexico, USA
+india,2,4,Asia,pakistan,nepal
+pakistan,2,3,Asia,india
+nepal  ,4,5,Asia, india,china
+china, 3,8 ,Asia,USA,nepal
